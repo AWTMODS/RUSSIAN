@@ -3,9 +3,9 @@
   {
     "Header": "TikTok",
     "package_name": "com.zhiliaoapp.musically",
-    "version_code": 2024003050,
+    "version_code": 2024003080,
     "force_update": true,
-    "title": "Update version v5",
+    "title": "Update version v6",
     "description_type": 2,
     "html_formatted": false,
     "description": "Base Update\nNew Features\nFixed Bugs",
