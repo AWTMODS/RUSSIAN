@@ -1,0 +1,19 @@
+{
+
+  "latestVersionCode": 5,
+
+  "latestVersionName": "2.5.0",
+
+  "whatsNew": {
+
+    "ar": "- تحسينات في الأداء\n- دعم الوضع الليلي\n- إصلاحات مهمة",
+
+    "en": "- Performance improvements\n- Dark mode support\n- Important fixes"
+
+  },
+
+  "downloadUrl": "https://t.me/ttanmod",
+
+  "forceUpdate": false
+
+}
