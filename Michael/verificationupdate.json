@@ -1,0 +1,16 @@
+{
+  "TEST123": {
+    "active": true,
+    "expiry": 1798732800000
+  },
+
+  "EXPIRED1": {
+    "active": true,
+    "expiry": 1600000000000
+  },
+
+  "DISABLED1": {
+    "active": false,
+    "expiry": 1898732800000
+  }
+}
