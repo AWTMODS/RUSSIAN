@@ -1,16 +1,41 @@
 {
   "TEST123": {
-    "active": true,
-    "expiry": 1798732800000
+    "telegram_username": "aadith",
+    "purchase_date": 1750000000000,
+    "expire_date": 1798732800000,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
+  },
+
+  "VIP999": {
+    "telegram_username": "premiumuser",
+    "purchase_date": 1755000000000,
+    "expire_date": 1898732800000,
+    "one_device_only": false,
+    "device_limit": 3,
+    "used_devices": [],
+    "active": true
   },
 
   "EXPIRED1": {
-    "active": true,
-    "expiry": 1600000000000
+    "telegram_username": "olduser",
+    "purchase_date": 1600000000000,
+    "expire_date": 1650000000000,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   },
 
   "DISABLED1": {
-    "active": false,
-    "expiry": 1898732800000
+    "telegram_username": "banneduser",
+    "purchase_date": 1750000000000,
+    "expire_date": 1898732800000,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": false
   }
 }
